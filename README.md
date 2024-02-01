@@ -5,7 +5,7 @@
 - <b>CS303 Logic and Digital System Design</b>
   - [FPGA-based Electronic Air-Hockey Game](https://github.com/maryambaig105/FPGA-based-air-hockey-game)
 - <b>CS408 Computer Networks</b>
-  - [Discord-like Server and Client]() 
+  - [Discord-like Server and Client](https://github.com/maryambaig105/Discord-Like-Server-and-Client) 
 - <b>CS300 Data Structures</b>
   - [Search Engine (comparing speeds between using AVL trees, Hashtables and vectors)](https://github.com/maryambaig105/Search-Engine)
   - [Maze Generator and Path Finder](https://github.com/maryambaig105/Maze-Generator)
