@@ -11,7 +11,7 @@
   - [Maze Generator and Path Finder](https://github.com/maryambaig105/Maze-Generator)
 - <b>CS204 Advanced Programming</b>
   - [Futuristic Backgammon Game](https://github.com/maryambaig105/Futuristic-Backgamon)
-  - [Modified Monopoly Game]()
+  - [Modified Monopoly Game](https://github.com/maryambaig105/Modified-Monopoly)
 
 
 <h2> 🤳 Connect with me:</h2>
