@@ -8,7 +8,7 @@
   - [Discord-like Server and Client]() 
 - <b>CS300 Data Structures</b>
   - [Search Engine (comparing speeds between using AVL trees, Hashtables and vectors)](https://github.com/maryambaig105/Search-Engine)
-  - [Maze Generator and Path Finder]()
+  - [Maze Generator and Path Finder](https://github.com/maryambaig105/Maze-Generator)
 - <b>VA335 Sound and Image</b>
   - [Jungle Soundtrack Reaper Project]()
   - [Mock ads for Nickelodeon Reaper Project]()
