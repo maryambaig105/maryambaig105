@@ -10,7 +10,7 @@
   - [Search Engine (comparing speeds between using AVL trees, Hashtables and vectors)](https://github.com/maryambaig105/Search-Engine)
   - [Maze Generator and Path Finder](https://github.com/maryambaig105/Maze-Generator)
 - <b>VA335 Sound and Image</b>
-  - [Jungle Soundtrack Reaper Project]()
+  - [Jungle Soundtrack Reaper Project](https://github.com/maryambaig105/Jungle-SoundTrack)
   - [Mock ads for Nickelodeon Reaper Project]()
 - <b>CS204 Advanced Programming</b>
   - [Futuristic Backgammon Game]()
