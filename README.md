@@ -3,7 +3,7 @@
 <h2>👨‍💻 University Course Projects:</h2>
 
 - <b>CS303 Logic and Digital System Design</b>
-  - [FPGA-based Electronic Air-Hockey Game](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [FPGA-based Electronic Air-Hockey Game](https://github.com/maryambaig105/FPGA-based-air-hockey-game)
 - <b>CS408 Computer Networks</b>
   - [Discord-like Server and Client](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>CS300 Data Structures</b>
