@@ -1,6 +1,6 @@
 <h1>Hi, I'm Maryam! </h1>
 
-<h2>👨‍💻 University Course Projects:</h2>
+<h2>👩🏻‍💻 University Course Projects:</h2>
 
 - <b>CS303 Logic and Digital System Design</b>
   - [FPGA-based Electronic Air-Hockey Game](https://github.com/maryambaig105/FPGA-based-air-hockey-game)
@@ -13,7 +13,7 @@
   - [Futuristic Backgammon Game](https://github.com/maryambaig105/Futuristic-Backgamon)
   - [Modified Monopoly Game](https://github.com/maryambaig105/Modified-Monopoly)
 
-<h2>Personal Test Projects:</h2>
+<h2>🎨 Personal Test Projects:</h2>
 - [Service Excellence Survey Form](https://github.com/maryambaig105/Survey-form)
 
 <h2> 🤳 Connect with me:</h2>
