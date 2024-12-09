@@ -2,6 +2,8 @@
 
 <h2>👩🏻‍💻 University Course Projects:</h2>
 
+- <b>CS449 Human Computer Interaction</b>
+  - [Hand Gesture Based Study Planner](https://github.com/raghadArar/cs449_Assignment5.git)
 - <b>CS303 Logic and Digital System Design</b>
   - [FPGA-based Electronic Air-Hockey Game](https://github.com/maryambaig105/FPGA-based-air-hockey-game)
 - <b>CS408 Computer Networks</b>
